@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<caseList>
+  <OECase>
+    <id>453685572</id>
+    <asn>2020-ASO-31219-OE</asn>
+    <asnSequence>31219</asnSequence>
+    <dateEntered>2020-10-13</dateEntered>
+    <expirationDate>2022-05-20</expirationDate>
+    <dateCompleted>2020-11-20</dateCompleted>
+    <caseType>OE</caseType>
+    <nearestAirportName>NIP</nearestAirportName>
+    <nearestState>FL</nearestState>
+    <nearestCity>Jacksonville</nearestCity>
+    <structureType>Antenna Tower</structureType>
+    <siteElevationProposed>12</siteElevationProposed>
+    <aglOverallHeightProposed>145</aglOverallHeightProposed>
+    <amslOverallHeightProposed>157</amslOverallHeightProposed>
+    <amslOverallHeightDet>157</amslOverallHeightDet>
+    <determination>Determined Not a Hazard</determination>
+    <status>Determined</status>
+    <marking>None</marking>
+    <lighting>Medium intensity dual (red/white) aviation obstruction lighting</lighting>
+    <sponsorName>T-Mobile</sponsorName>
+    <sponsorEmail>kelly.williamson@T-Mobile.com</sponsorEmail>
+    <sponsorCountry>US</sponsorCountry>
+    <sponsorPhone>904-251-7000</sponsorPhone>
+    <latitude>30.247083333333332</latitude>
+    <longitude>-81.7348638888889</longitude>
+    <receivedDate>2020-10-13T16:33:43-04:00</receivedDate>
+    <latLongAccuracy>4D</latLongAccuracy>
+  </OECase>
+  <OECase>
+    <id>381840638</id>
+    <asn>2018-AEA-10702-OE</asn>
+    <asnSequence>10702</asnSequence>
+    <dateEntered>2018-08-17</dateEntered>
+    <dateCompleted>2018-09-28</dateCompleted>
+    <caseType>OE</caseType>
+    <nearestAirportName>DCA</nearestAirportName>
+    <nearestState>VA</nearestState>
+    <nearestCity>Arlington</nearestCity>
+    <structureType>Building</structureType>
+    <structureDescription>NE Corner</structureDescription>
+    <siteElevationProposed>53</siteElevationProposed>
+    <aglOverallHeightProposed>95</aglOverallHeightProposed>
+    <amslOverallHeightProposed>148</amslOverallHeightProposed>
+    <amslOverallHeightDet>148</amslOverallHeightDet>
+    <determination>Determined Not a Hazard</determination>
+    <status>Determined</status>
+    <marking>None</marking>
+    <lighting>None</lighting>
+    <sponsorName>JBG Smith</sponsorName>
+    <sponsorEmail>jwilliams@jbgsmith.com</sponsorEmail>
+    <sponsorCountry>US</sponsorCountry>
+    <sponsorPhone>240-333-3694</sponsorPhone>
+    <latitude>38.83346944444445</latitude>
+    <longitude>-77.0481361111111</longitude>
+    <receivedDate>2018-10-19T13:48:35-04:00</receivedDate>
+    <latLongAccuracy>1A</latLongAccuracy>
+  </OECase>
+  <OECase>
+    <id>512345678</id>
+    <asn>2025-AGL-5501-OE</asn>
+    <asnSequence>5501</asnSequence>
+    <dateEntered>2025-03-01</dateEntered>
+    <expirationDate>2027-03-01</expirationDate>
+    <dateCompleted>2025-04-15</dateCompleted>
+    <caseType>OE</caseType>
+    <nearestAirportName>ORD</nearestAirportName>
+    <nearestState>IL</nearestState>
+    <nearestCity>Chicago</nearestCity>
+    <structureType>Wind Turbine</structureType>
+    <siteElevationProposed>610</siteElevationProposed>
+    <aglOverallHeightProposed>499</aglOverallHeightProposed>
+    <amslOverallHeightProposed>1109</amslOverallHeightProposed>
+    <amslOverallHeightDet>1109</amslOverallHeightDet>
+    <determination>Hazard to Air Navigation</determination>
+    <status>Determined</status>
+    <marking>Required</marking>
+    <lighting>High intensity white (strobe) aviation obstruction lighting</lighting>
+    <sponsorName>Midwest Wind Energy LLC</sponsorName>
+    <sponsorEmail>contact@midwestwind.com</sponsorEmail>
+    <sponsorCountry>US</sponsorCountry>
+    <sponsorPhone>312-555-0100</sponsorPhone>
+    <latitude>41.9742</latitude>
+    <longitude>-87.9073</longitude>
+    <receivedDate>2025-03-01T09:00:00-05:00</receivedDate>
+    <latLongAccuracy>4D</latLongAccuracy>
+  </OECase>
+  <OECase>
+    <id>599887766</id>
+    <asn>2025-ANE-1102-OE</asn>
+    <asnSequence>1102</asnSequence>
+    <dateEntered>2025-01-10</dateEntered>
+    <expirationDate>2027-01-10</expirationDate>
+    <dateCompleted>2025-02-20</dateCompleted>
+    <caseType>OE</caseType>
+    <nearestAirportName>BOS</nearestAirportName>
+    <nearestState>MA</nearestState>
+    <nearestCity>Boston</nearestCity>
+    <structureType>Crane</structureType>
+    <siteElevationProposed>20</siteElevationProposed>
+    <aglOverallHeightProposed>310</aglOverallHeightProposed>
+    <amslOverallHeightProposed>330</amslOverallHeightProposed>
+    <amslOverallHeightDet>330</amslOverallHeightDet>
+    <determination>Determined Not a Hazard</determination>
+    <status>Determined</status>
+    <marking>Aviation orange and white paint</marking>
+    <lighting>Medium intensity white (strobe) aviation obstruction lighting</lighting>
+    <sponsorName>Suffolk Construction</sponsorName>
+    <sponsorEmail>permits@suffolk.com</sponsorEmail>
+    <sponsorCountry>US</sponsorCountry>
+    <sponsorPhone>617-555-0199</sponsorPhone>
+    <latitude>42.3601</latitude>
+    <longitude>-71.0589</longitude>
+    <receivedDate>2025-01-10T08:30:00-05:00</receivedDate>
+    <latLongAccuracy>4D</latLongAccuracy>
+  </OECase>
+</caseList>
